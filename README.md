@@ -8,6 +8,14 @@ This package alows the user to get an e-commerce product's **title** and **price
     *Snapdeal
     *Alibaba
     *Reliance digital
+    
+### Installing the package:
+pip install epricepy==0.1
+
+### Package requirements:
+1.lxml
+2.requests
+3.beautifulsoup4
 
 ### Importing and using the package:
 
@@ -31,3 +39,5 @@ Title,Price=eprice.getReliancedigital(url)
 
 
 [link to Package's Github repo](https://github.com/Zero-Autumn/eprice-package.git)
+
+Thanks! <3
