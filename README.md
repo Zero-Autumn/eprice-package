@@ -30,3 +30,4 @@ Title,Price=eprice.getReliancedigital(url)
 
 
 
+[link to Package's Github repo](https://github.com/Zero-Autumn/eprice-package.git)
