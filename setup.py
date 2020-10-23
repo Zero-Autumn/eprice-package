@@ -11,7 +11,7 @@ setuptools.setup(
     description="This package alows the user to get selected e-commerce product's title and price as tuple according to the user's input url.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/Zero-Autumn/eprice-package",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
